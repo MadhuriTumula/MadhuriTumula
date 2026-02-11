@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MadhuriTumula<br>👀 I’m interested in ...writing, learning how to code<br>🌱 I’m currently learning ...python3.<br>💞️ I’m looking to collaborate on ...simple python projects.<br>📫 How to reach me ... madhuritumula@gmail.com
+👋 Hi, I’m @MadhuriTumula<br>👀 I’m interested in ...writing, learning how to code, using code to study patterns across varoius domains<br>🌱 I’m currently learning ...Java, Web Development and Cybersecurity.<br>💞️ I’m looking to collaborate on ...exciting projects.<br>
 
 
 ## 🌐 Socials:
@@ -12,7 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MadhuriTumula&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuriTumula&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=MadhuriTumula&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MadhuriTumula&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
