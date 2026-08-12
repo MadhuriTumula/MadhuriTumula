@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MadhuriTumula<br>👀 I’m interested in ...writing, learning how to code, using code to study patterns across various domains<br>🌱 I’m currently learning ...Java, Web Development and Cybersecurity.<br>💞️ I’m looking to collaborate on ...exciting projects.<br>
+👋 Hi, I’m @MadhuriTumula<br>👀 I’m interested in learning how to code, using code to study patterns across various domains<br>🌱 I’m currently learning Java, Web Development and DSA.<br>💞️ I’m looking to collaborate on exciting projects.<br>
 
 
 ## 🌐 Socials:
